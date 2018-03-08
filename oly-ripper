@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Make the directory
+mkdir $1
+cd $1
+
+# Clip off end of url
+url=${2::-8}
+# Get all the individual .ts files
+for i in $(seq -f "%05g" 00001 99999)
+do
+	wget $url$i.ts || break
+done
+
+# Convert them all to mp4
+for i in $(seq -f "%05g" 00001 99999)
+do
+	ffmpeg -i *$i.ts -acodec copy -vcodec copy $i.mp4 || break
+done
+
+# Get list of mp4 files
+for i in *.mp4
+do
+	echo "file '$i'" >> list.txt
+done
+
+# Stitch them together
+ffmpeg -f concat -i list.txt -c copy ../$1.mp4
+
+# Cleanup
+cd ..
+rm -rf $1
