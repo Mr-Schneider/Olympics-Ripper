@@ -1,4 +1,8 @@
+if [ -z "$1" ] || [ -z "$2" ] ; then
 #!/bin/bash
+  echo "Usage: ./oly-ripper <Event Name> <.ts link>"
+  exit 1
+fi
 
 # Make the directory
 mkdir $1
@@ -6,6 +10,7 @@ cd $1
 
 # Clip off end of url
 url=${2::-8}
+
 # Get all the individual .ts files
 for i in $(seq -f "%05g" 00001 99999)
 do
