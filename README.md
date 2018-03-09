@@ -55,5 +55,6 @@ Opening-Ceremony https://vod.olympicchannel.com/NBCR_Production_-_OCS/906/448/GC
 ```
 Be sure to make sure the name does not have any spaces. Once you have a file you can pass it to the scrip with xargs.
 ```
-cat inputList.txt | xargs ./oly-ripper
+cat inputList.txt | xargs -L 1./oly-ripper
 ```
+What this does is cat's the file of your inputs (prints the file line my line), and xarg passes the output of cat to the script. The L flag specifies that no more than one line should be sent to the script at once, resulting in the script being called for every line in the list.
