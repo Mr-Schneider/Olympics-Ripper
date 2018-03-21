@@ -4,6 +4,65 @@ if [ -z "$1" ] || [ -z "$2" ] ; then
   exit 1
 fi
 
+# Check if user has list of links
+if [ $1 == '-i' ] ; then
+  # Make sure they pass file
+  if [ -z "$2" ] ; then
+    echo "No input list specified."
+    exit 1
+  else
+    echo "Importing links from $2"
+    while read line; do
+
+      # Test to see if this line is commented out
+      short="${line:0:1}"
+      if [ "$short" == "#" ] ; then
+         # This line is commented out, skip
+         continue
+      fi
+
+      # Get name and url on this line in file.
+      count=0
+      for word in $line; do
+
+        # Get the name and url
+        if [ $count -eq 0 ] ; then
+          name=$word
+          count=$((count+1))
+        else
+          url=$word
+          echo "We doin $name @ $url"
+          # Now get this event
+          # Make the directory
+          mkdir $name
+          cd $name
+
+          # Clip off end of url
+          shortUrl=${url::-8}
+
+          # Convert them all to mp4
+          for i in $(seq -f "%05g" 00001 99999)
+          do
+          	< /dev/null ffmpeg -i $shortUrl$i.ts -c copy $i.mp4 || break
+            echo "file '$i'" >> list.txt
+          done
+
+          # Stitch them together
+          echo "starting concat"
+          ffmpeg -f concat -i list.txt -c copy ../$name.mp4
+
+          # Cleanup
+          cd ..
+          # rm -rf $name
+
+          #Comment out this line from the file
+          sed -i /$name/s/^/#/ $2
+        fi
+      done
+    done <$2
+  fi
+fi
+
 # Make the directory
 mkdir $1
 cd $1
@@ -15,12 +74,7 @@ url=${2::-8}
 for i in $(seq -f "%05g" 00001 99999)
 do
 	ffmpeg -i $url$i.ts -c copy $i.mp4 || break
-done
-
-# Get list of mp4 files
-for i in *.mp4
-do
-	echo "file '$i'" >> list.txt
+  echo "file '$i'" >> list.txt
 done
 
 # Stitch them together

@@ -1,0 +1,2588 @@
+[
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-team-event/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/29/192/GCDG-PYREPL18S01E017-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-team-event",
+    "eventTitle": "Team Event - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ski-jumping-mens-team-large-hill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/351/464/GCDG-PYREPL18S14E006-_E17101101_master.m3u8",
+    "eventSlug": "ski-jumping-mens-team-large-hill",
+    "eventTitle": "Men's Team Event - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-ladies-3000m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/214/480/GCDG-PYREPL18S16E007-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-ladies-3000m",
+    "eventTitle": "Women's 3000m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-mens-10000m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/7/644/GCDG-PYREPL18S16E010-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-mens-10000m",
+    "eventTitle": "Men's 10000m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-ladies-mens-mass-start/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/7/144/GCDG-PYREPL18S16E011-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-ladies-mens-mass-start",
+    "eventTitle": "Men's and Women's Mass Start - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/luge-team-relay/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/912/228/GCDG-PYREPL18S10E006-_E17101101_master.m3u8",
+    "eventSlug": "luge-team-relay",
+    "eventTitle": "Team Relay - Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-gala-exhibition/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/673/812/GCDG-PYREPL18S07E012-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-gala-exhibition",
+    "eventTitle": "Gala Exhibition - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/13-year-old-wonderkid-yang-tae-hwan-steals-the-show-with-guitar-solo/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/388/652/GCDG-PYSHORT18S04E009-_E17122701_master.m3u8",
+    "eventSlug": "13-year-old-wonderkid-yang-tae-hwan-steals-the-show-with-guitar-solo",
+    "eventTitle": "13-year-old wonderkid Yang Tae-hwan steals the show with guitar solo"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/abramenko-seals-mens-aerials-gold-with-great-jump-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/637/252/GCDG-PYSHORT18S08E002-_E17101101_master.m3u8",
+    "eventSlug": "abramenko-seals-mens-aerials-gold-with-great-jump-freestyle-skiing",
+    "eventTitle": "Abramenko seals Men's Aerials Gold with great jump - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/56-golden-reactions-the-moment-they-won-a-gold-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/151/264/GCDG-PYCHENDFS01E012-_E17121901_master.m3u8",
+    "eventSlug": "56-golden-reactions-the-moment-they-won-a-gold-medal",
+    "eventTitle": "56 Golden Reactions - The moment they won a Gold medal"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/achtereekte-records-the-gold-medal-time-in-the-womens-3000m-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/109/1000/GCDG-PYSHORT18S16E007-_E17101101_master.m3u8",
+    "eventSlug": "achtereekte-records-the-gold-medal-time-in-the-womens-3000m-speed-skating",
+    "eventTitle": "Achtereekte records the Gold medal time in the Women's 3000m - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/summary-of-the-games-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/223/612/GCDG-PYREPL18S04E003-_E18022401_master.m3u8",
+    "eventSlug": "summary-of-the-games-pyeongchang-2018-replays",
+    "eventTitle": "Summary of the Games - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alina-zagitova-oar-gold-medal-womens-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/109/848/GCDG-PYSHORT18S07E011-_E17101101_master.m3u8",
+    "eventSlug": "alina-zagitova-oar-gold-medal-womens-free-skating",
+    "eventTitle": "Alina Zagitova (OAR) - Gold Medal - Women's Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-ladies-giant-slalom-2nd-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/115/280/GCDG-PYREPL18S01E010-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-ladies-giant-slalom-2nd-run",
+    "eventTitle": "Women's Giant Slalom, 2nd Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-ladies-downhill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/955/544/GCDG-PYREPL18S01E006-_E17101101_master__662440.m3u8",
+    "eventSlug": "alpine-skiing-ladies-downhill",
+    "eventTitle": "Women's Downhill - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-ladies-slalom-2nd-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/949/688/GCDG-PYREPL18S01E014-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-ladies-slalom-2nd-run",
+    "eventTitle": "Women's Slalom, 2nd Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-ladies-giant-slalom-1st-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/114/804/GCDG-PYREPL18S01E009-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-ladies-giant-slalom-1st-run",
+    "eventTitle": "Women's Giant Slalom, 1st Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-mens-downhill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/115/280/GCDG-PYREPL18S01E005-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-mens-downhill",
+    "eventTitle": "Men's Downhill - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-mens-giant-slalom-1st-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1015/28/GCDG-PYREPL18S01E007-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-mens-giant-slalom-1st-run",
+    "eventTitle": "Men's Giant Slalom, 1st Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-ladies-slalom-1st-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/954/568/GCDG-PYREPL18S01E013-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-ladies-slalom-1st-run",
+    "eventTitle": "Women's Slalom, 1st Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-mens-giant-slalom-2nd-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/54/592/GCDG-PYREPL18S01E008-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-mens-giant-slalom-2nd-run",
+    "eventTitle": "Men's Giant Slalom, 2nd Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-ladies-super-g/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/92/180/GCDG-PYREPL18S01E016-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-ladies-super-g",
+    "eventTitle": "Women's Super-G - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-mens-slalom-2nd-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/952/616/GCDG-PYREPL18S01E012-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-mens-slalom-2nd-run",
+    "eventTitle": "Men's Slalom, 2nd Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-mens-slalom-1st-run/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/91/204/GCDG-PYREPL18S01E011-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-mens-slalom-1st-run",
+    "eventTitle": "Men's Slalom, 1st Run - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alpine-skiing-mens-super-g/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/474/164/GCDG-PYREPL18S01E015-_E17101101_master.m3u8",
+    "eventSlug": "alpine-skiing-mens-super-g",
+    "eventTitle": "Men's Super-G - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/alina-zagitova-sets-a-new-highest-score-at-pyeongchang-2018/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/534/724/GCDG-PYSHORT18S07E053-_E17122701_master.m3u8",
+    "eventSlug": "alina-zagitova-sets-a-new-highest-score-at-pyeongchang-2018",
+    "eventTitle": "Alina Zagitova sets a new Highest Score at Pyeongchang 2018"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/anderson-defends-title-in-womens-slopestyle-with-great-1st-run-snowboard/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/440/56/GCDG-PYSHORT18S15E016-_E17101101_master.m3u8",
+    "eventSlug": "anderson-defends-title-in-womens-slopestyle-with-great-1st-run-snowboard",
+    "eventTitle": "Anderson defends title in Women's Slopestyle with great 1st run - Snowboard"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/arlt-and-wendls-impressive-heat-2-brings-them-doubles-gold-luge/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/636/352/GCDG-PYSHORT18S10E013-_E17101101_master.m3u8",
+    "eventSlug": "arlt-and-wendls-impressive-heat-2-brings-them-doubles-gold-luge",
+    "eventTitle": "Arlt and Wendl's impressive Heat 2 brings them Doubles gold - Luge"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/back-to-back-1080s-and-gold-for-chloe-kim-in-womens-halfpipe-snowboard/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/567/1008/GCDG-PYSHORT18S15E006-_E17101101_master.m3u8",
+    "eventSlug": "back-to-back-1080s-and-gold-for-chloe-kim-in-womens-halfpipe-snowboard",
+    "eventTitle": "Back-to-back 1080s and Gold for Chloe Kim in Women's Halfpipe - Snowboard"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathletes-fourcade-and-schempp-in-dramatic-mass-starts-photo-finish/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1020/560/GCDG-PYSHORT18S02E001-_E17122701_master.m3u8",
+    "eventSlug": "biathletes-fourcade-and-schempp-in-dramatic-mass-starts-photo-finish",
+    "eventTitle": "Biathletes Fourcade and Schempp in dramatic Mass Start's photo-finish"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-womens-10-km-pursuit/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/481/72/GCDG-PYREPL18S02E006-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-womens-10-km-pursuit",
+    "eventTitle": "Women's Pursuit 10km - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-mens-4-x-7-5-km-relay/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/128/392/GCDG-PYREPL18S02E007-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-mens-4-x-7-5-km-relay",
+    "eventTitle": "Men's Relay - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-mixed-relay/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/37/76/GCDG-PYREPL18S02E009-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-mixed-relay",
+    "eventTitle": "Mixed Relay - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-mens-20-km-individual/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/889/280/GCDG-PYREPL18S02E001-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-mens-20-km-individual",
+    "eventTitle": "Men's Individual 20km - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-mens-10-km-sprint/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/259/400/GCDG-PYREPL18S02E010-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-mens-10-km-sprint",
+    "eventTitle": "Men's Sprint - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-mens-12-5-km-pursuit/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/482/548/GCDG-PYREPL18S02E005-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-mens-12-5-km-pursuit",
+    "eventTitle": "Men's Pursuit 12.5km - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-mens-15-km-mass-start/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/460/1000/GCDG-PYREPL18S02E003-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-mens-15-km-mass-start",
+    "eventTitle": "Men's Mass Start 15km - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-womens-7-5-km-sprint/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/75/316/GCDG-PYREPL18S02E011-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-womens-7-5-km-sprint",
+    "eventTitle": "Women's Sprint - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-womens-4-x-6-km-relay/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/148/412/GCDG-PYREPL18S02E008-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-womens-4-x-6-km-relay",
+    "eventTitle": "Women's Relay - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-womens-12-5-km-mass-start/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/149/964/GCDG-PYREPL18S02E004-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-womens-12-5-km-mass-start",
+    "eventTitle": "Women's Mass Start 12.5km - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/biathlon-womens-15-km-individual/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/888/804/GCDG-PYREPL18S02E002-_E17101101_master.m3u8",
+    "eventSlug": "biathlon-womens-15-km-individual",
+    "eventTitle": "Women's Individual 15km - Biathlon - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/bloemen-sets-new-10-000m-olympic-record-to-claim-gold-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/882/948/GCDG-PYSHORT18S16E010-_E17101101_master.m3u8",
+    "eventSlug": "bloemen-sets-new-10-000m-olympic-record-to-claim-gold-speed-skating",
+    "eventTitle": "Bloemen sets new 10,000m Olympic Record to claim Gold - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/can-v-kor-round-robin-mixed-doubles-curling-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/641/4/GCDG-PYREPL18S06E128-_E17101101_master.m3u8",
+    "eventSlug": "can-v-kor-round-robin-mixed-doubles-curling-pyeongchang-2018-replays",
+    "eventTitle": "CAN v KOR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/coachs-knitting-doesnt-bring-medal-to-roope-tonteri/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/587/28/GCDG-PYSHORT18S15E017-_E17122701_master.m3u8",
+    "eventSlug": "coachs-knitting-doesnt-bring-medal-to-roope-tonteri",
+    "eventTitle": "Coach's knitting doesn't bring medal to Roope Tonteri"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/closing-ceremony-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/398/412/GCDG-PYREPL18S04E002-_E17101101_master.m3u8",
+    "eventSlug": "closing-ceremony-pyeongchang-2018-replays",
+    "eventTitle": "Closing Ceremony - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-30-km-mass-start-classic/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/398/912/GCDG-PYREPL18S05E004-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-30-km-mass-start-classic",
+    "eventTitle": "Women's Mass Start 30km - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-7-5-km-7-5-km-skiathlon/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/77/268/GCDG-PYREPL18S05E008-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-7-5-km-7-5-km-skiathlon",
+    "eventTitle": "Women's Skiathlon 15km - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-mens-individual-sprint-qualification-classic/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/96/236/GCDG-PYREPL18S05E009-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-mens-individual-sprint-qualification-classic",
+    "eventTitle": "Sprint, Qualifications - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-mens-team-sprint-free-semi-finals/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/955/544/GCDG-PYREPL18S05E011-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-mens-team-sprint-free-semi-finals",
+    "eventTitle": "Team Sprint, Semi-Finals - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-relay-2-x-5km-classic-2-x-5km-free/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/149/964/GCDG-PYREPL18S05E006-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-relay-2-x-5km-classic-2-x-5km-free",
+    "eventTitle": "Women's Relay - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-mens-15-km-15-km-skiathlon/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/243/284/GCDG-PYREPL18S05E007-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-mens-15-km-15-km-skiathlon",
+    "eventTitle": "Men's Skiathlon 30km - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-mens-individual-sprint-classic/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/298/388/GCDG-PYREPL18S05E010-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-mens-individual-sprint-classic",
+    "eventTitle": "Sprint, Finals - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-mens-team-sprint-free/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/949/188/GCDG-PYREPL18S05E012-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-mens-team-sprint-free",
+    "eventTitle": "Team Sprint, Finals - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-mens-50-km-mass-start-classic/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/398/912/GCDG-PYREPL18S05E003-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-mens-50-km-mass-start-classic",
+    "eventTitle": "Men's Mass Start 50km - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-ladies-10-km-free/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1012/328/GCDG-PYREPL18S05E002-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-ladies-10-km-free",
+    "eventTitle": "Women's 10km Freestyle - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-mens-15-km-free/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1009/400/GCDG-PYREPL18S05E001-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-mens-15-km-free",
+    "eventTitle": "Men's 15km Freestyle - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/cross-country-skiing-mens-relay-2-x-10km-classic-2-x-10km-free/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/461/476/GCDG-PYREPL18S05E005-_E17101101_master.m3u8",
+    "eventSlug": "cross-country-skiing-mens-relay-2-x-10km-classic-2-x-10km-free",
+    "eventTitle": "Men's Relay - Cross-Country Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-can-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/52/564/GCDG-PYREPL18S06E005-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-can-gbr",
+    "eventTitle": "CAN v GBR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-can-ita/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/918/932/GCDG-PYREPL18S06E002-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-can-ita",
+    "eventTitle": "CAN v ITA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-den-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/815/404/GCDG-PYREPL18S06E012-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-den-sui",
+    "eventTitle": "DEN v SUI (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-den-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/287/348/GCDG-PYREPL18S06E028-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-den-kor",
+    "eventTitle": "DEN v KOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-can-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/353/840/GCDG-PYREPL18S06E019-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-can-kor",
+    "eventTitle": "CAN v KOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-den-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/921/360/GCDG-PYREPL18S06E001-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-den-swe",
+    "eventTitle": "DEN v SWE (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-gold-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/674/788/GCDG-PYREPL18S06E049-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-gold-medal",
+    "eventTitle": "SWE v USA (Gold Medal Game) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-gbr-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/813/952/GCDG-PYREPL18S06E011-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-gbr-jpn",
+    "eventTitle": "GBR v JPN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-den-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/285/472/GCDG-PYREPL18S06E018-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-den-usa",
+    "eventTitle": "DEN v USA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-can-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/589/752/GCDG-PYREPL18S06E022-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-can-swe",
+    "eventTitle": "CAN v SWE (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-gbr-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/490/976/GCDG-PYREPL18S06E043-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-gbr-usa",
+    "eventTitle": "GBR v USA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-den-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/156/492/GCDG-PYREPL18S06E042-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-den-can",
+    "eventTitle": "DEN v CAN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-ita-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/372/884/GCDG-PYREPL18S06E013-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-ita-den",
+    "eventTitle": "ITA v DEN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-ita-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/565/328/GCDG-PYREPL18S06E038-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-ita-swe",
+    "eventTitle": "ITA v SWE (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-ita-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/222/984/GCDG-PYREPL18S06E031-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-ita-kor",
+    "eventTitle": "ITA v KOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-bronze-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/129/368/GCDG-PYREPL18S06E048-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-bronze-medal",
+    "eventTitle": "SUI v CAN (Bronze Medal Game) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-gbr-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/340/576/GCDG-PYREPL18S06E034-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-gbr-den",
+    "eventTitle": "GBR v DEN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-jpn-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/664/376/GCDG-PYREPL18S06E041-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-jpn-den",
+    "eventTitle": "JPN v DEN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-kor-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/369/956/GCDG-PYREPL18S06E020-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-kor-gbr",
+    "eventTitle": "KOR v GBR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-ita-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/902/892/GCDG-PYREPL18S06E029-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-ita-gbr",
+    "eventTitle": "ITA v GBR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-jpn-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/627/764/GCDG-PYREPL18S06E036-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-jpn-can",
+    "eventTitle": "JPN v CAN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-gbr-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/465/228/GCDG-PYREPL18S06E035-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-gbr-nor",
+    "eventTitle": "GBR v NOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-kor-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/659/996/GCDG-PYREPL18S06E037-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-kor-sui",
+    "eventTitle": "KOR v SUI (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-jpn-ita/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/361/648/GCDG-PYREPL18S06E023-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-jpn-ita",
+    "eventTitle": "JPN v ITA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-jpn-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/357/744/GCDG-PYREPL18S06E016-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-jpn-sui",
+    "eventTitle": "JPN v SUI (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-nor-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/314/1004/GCDG-PYREPL18S06E010-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-nor-can",
+    "eventTitle": "NOR v CAN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-kor-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/171/208/GCDG-PYREPL18S06E003-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-kor-usa",
+    "eventTitle": "KOR v USA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-kor-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/590/728/GCDG-PYREPL18S06E006-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-kor-swe",
+    "eventTitle": "KOR v SWE (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-kor-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/565/328/GCDG-PYREPL18S06E045-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-kor-jpn",
+    "eventTitle": "KOR v JPN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-nor-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/360/672/GCDG-PYREPL18S06E024-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-nor-den",
+    "eventTitle": "NOR v DEN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-nor-ita/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/661/948/GCDG-PYREPL18S06E040-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-nor-ita",
+    "eventTitle": "NOR v ITA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-sui-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/374/836/GCDG-PYREPL18S06E026-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-sui-can",
+    "eventTitle": "SUI v CAN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-nor-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/53/540/GCDG-PYREPL18S06E008-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-nor-jpn",
+    "eventTitle": "NOR v JPN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-sui-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/175/112/GCDG-PYREPL18S06E004-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-sui-gbr",
+    "eventTitle": "SUI v GBR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-sui-ita/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/54/16/GCDG-PYREPL18S06E007-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-sui-ita",
+    "eventTitle": "SUI v ITA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-swe-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/362/624/GCDG-PYREPL18S06E017-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-swe-gbr",
+    "eventTitle": "SWE v GBR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-sui-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/578/16/GCDG-PYREPL18S06E039-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-sui-usa",
+    "eventTitle": "SUI v USA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-sui-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/329/416/GCDG-PYREPL18S06E021-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-sui-nor",
+    "eventTitle": "SUI v NOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-nor-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/474/164/GCDG-PYREPL18S06E014-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-nor-kor",
+    "eventTitle": "NOR v KOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-usa-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/224/936/GCDG-PYREPL18S06E030-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-usa-nor",
+    "eventTitle": "USA v NOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-swe-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/564/852/GCDG-PYREPL18S06E027-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-swe-jpn",
+    "eventTitle": "SWE v JPN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-swe-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/473/188/GCDG-PYREPL18S06E015-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-swe-usa",
+    "eventTitle": "SWE v USA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-usa-ita/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/815/904/GCDG-PYREPL18S06E009-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-usa-ita",
+    "eventTitle": "USA v ITA (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-swe-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/225/912/GCDG-PYREPL18S06E032-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-swe-sui",
+    "eventTitle": "SWE v SUI (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-semi-final-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/147/936/GCDG-PYREPL18S06E046-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-semi-final-1",
+    "eventTitle": "SWE v SUI (Semifinal) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-swe-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/700/512/GCDG-PYREPL18S06E044-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-swe-nor",
+    "eventTitle": "SWE v NOR (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-chn-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/984/76/GCDG-PYREPL18S06E114-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-chn-oar",
+    "eventTitle": "CHN v OAR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-semi-final-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/247/36/GCDG-PYREPL18S06E047-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-semi-final-2",
+    "eventTitle": "CAN v USA (Semifinal) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-can-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/869/836/GCDG-PYREPL18S06E102-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-can-nor",
+    "eventTitle": "CAN v NOR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-can-fin/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/71/412/GCDG-PYREPL18S06E113-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-can-fin",
+    "eventTitle": "CAN v FIN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-chn-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/387/828/GCDG-PYREPL18S06E111-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-chn-can",
+    "eventTitle": "CHN v CAN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mens-round-robin-usa-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/503/316/GCDG-PYREPL18S06E025-_E17101101_master.m3u8",
+    "eventSlug": "curling-mens-round-robin-usa-jpn",
+    "eventTitle": "USA v JPN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-chn-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/899/116/GCDG-PYREPL18S06E104-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-chn-sui",
+    "eventTitle": "CHN v SUI (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-fin-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/990/432/GCDG-PYREPL18S06E105-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-fin-sui",
+    "eventTitle": "FIN v SUI (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-chn-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/78/244/GCDG-PYREPL18S06E117-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-chn-usa",
+    "eventTitle": "CHN v USA (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-fin-chn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/479/120/GCDG-PYREPL18S06E124-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-fin-chn",
+    "eventTitle": "FIN v CHN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-gold-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/616/332/GCDG-PYREPL18S06E132-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-gold-medal",
+    "eventTitle": "CAN v SUI (Gold Medal) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-kor-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/27/468/GCDG-PYREPL18S06E109-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-kor-nor",
+    "eventTitle": "KOR v NOR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-nor-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/475/716/GCDG-PYREPL18S06E123-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-nor-usa",
+    "eventTitle": "NOR v USA (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-nor-fin/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/101/692/GCDG-PYREPL18S06E118-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-nor-fin",
+    "eventTitle": "NOR v FIN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-oar-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/451/292/GCDG-PYREPL18S06E121-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-oar-can",
+    "eventTitle": "OAR v CAN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-nor-chn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/481/572/GCDG-PYREPL18S06E125-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-nor-chn",
+    "eventTitle": "NOR v CHN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-bronze-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/614/880/GCDG-PYREPL18S06E131-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-bronze-medal",
+    "eventTitle": "NOR v OAR (Bronze Medal) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-kor-chn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/904/496/GCDG-PYREPL18S06E106-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-kor-chn",
+    "eventTitle": "KOR v CHN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-kor-fin/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/978/220/GCDG-PYREPL18S06E103-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-kor-fin",
+    "eventTitle": "KOR v FIN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-fin-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/735/976/GCDG-PYREPL18S06E126-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-fin-usa",
+    "eventTitle": "FIN v USA (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-oar-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/905/972/GCDG-PYREPL18S06E107-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-oar-nor",
+    "eventTitle": "OAR v NOR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-kor-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/451/292/GCDG-PYREPL18S06E120-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-kor-oar",
+    "eventTitle": "KOR v OAR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-sui-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/476/192/GCDG-PYREPL18S06E122-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-sui-kor",
+    "eventTitle": "SUI v KOR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-sui-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/735/976/GCDG-PYREPL18S06E127-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-sui-oar",
+    "eventTitle": "SUI v OAR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-usa-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/906/448/GCDG-PYREPL18S06E108-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-usa-can",
+    "eventTitle": "USA vs CAN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-oar-fin/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/985/52/GCDG-PYREPL18S06E112-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-oar-fin",
+    "eventTitle": "OAR v FIN (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-sui-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/6/472/GCDG-PYREPL18S06E116-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-sui-nor",
+    "eventTitle": "SUI v NOR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-semi-final-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/889/280/GCDG-PYREPL18S06E129-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-semi-final-1",
+    "eventTitle": "CAN v NOR (Semifinal) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-usa-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/867/384/GCDG-PYREPL18S06E101-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-usa-oar",
+    "eventTitle": "USA v OAR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-usa-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/65/56/GCDG-PYREPL18S06E110-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-usa-sui",
+    "eventTitle": "USA v SUI (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-semi-final-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/484/1000/GCDG-PYREPL18S06E130-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-semi-final-2",
+    "eventTitle": "OAR v SUI (Semifinal) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-round-robin-usa-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/985/52/GCDG-PYREPL18S06E115-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-round-robin-usa-kor",
+    "eventTitle": "USA v KOR (Round Robin) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-round-robin-mens-usa-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/226/388/GCDG-PYREPL18S06E033-_E17101101_master.m3u8",
+    "eventSlug": "curling-round-robin-mens-usa-can",
+    "eventTitle": "USA v CAN (Round Robin) - Men's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-can-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/287/848/GCDG-PYREPL18S06E078-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-can-sui",
+    "eventTitle": "CAN v SUI (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-den-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/287/848/GCDG-PYREPL18S06E066-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-den-can",
+    "eventTitle": "DEN v CAN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-can-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/340/76/GCDG-PYREPL18S06E058-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-can-kor",
+    "eventTitle": "CAN v KOR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-can-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/287/348/GCDG-PYREPL18S06E063-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-can-swe",
+    "eventTitle": "CAN v SWE (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-can-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/7/568/GCDG-PYREPL18S06E094-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-can-gbr",
+    "eventTitle": "CAN v GBR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-bronze-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/682/96/GCDG-PYREPL18S06E052-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-bronze-medal",
+    "eventTitle": "JPN v GBR (Bronze Medal Game) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-chn-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/490/976/GCDG-PYREPL18S06E079-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-chn-kor",
+    "eventTitle": "CHN v KOR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-chn-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/911/948/GCDG-PYREPL18S06E060-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-chn-oar",
+    "eventTitle": "CHN v OAR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-can-chn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/912/924/GCDG-PYREPL18S06E088-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-can-chn",
+    "eventTitle": "CAN v CHN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-gold-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/674/788/GCDG-PYREPL18S06E053-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-gold-medal",
+    "eventTitle": "KOR v SWE (Gold Medal Game) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-den-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/578/516/GCDG-PYREPL18S06E059-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-den-jpn",
+    "eventTitle": "DEN v JPN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-chn-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/473/688/GCDG-PYREPL18S06E062-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-chn-gbr",
+    "eventTitle": "CHN v GBR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-den-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/490/976/GCDG-PYREPL18S06E072-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-den-gbr",
+    "eventTitle": "DEN v GBR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-chn-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/519/84/GCDG-PYREPL18S06E074-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-chn-den",
+    "eventTitle": "CHN v DEN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-mixed-doubles-tie-breaker/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/262/828/GCDG-PYREPL18S06E133-_E17101101_master.m3u8",
+    "eventSlug": "curling-mixed-doubles-tie-breaker",
+    "eventTitle": "CHN v NOR (Tie-Breaker) - Mixed Doubles Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-den-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/905/592/GCDG-PYREPL18S06E056-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-den-swe",
+    "eventTitle": "DEN v SWE (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-den-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/902/392/GCDG-PYREPL18S06E085-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-den-oar",
+    "eventTitle": "DEN v OAR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-gbr-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/900/440/GCDG-PYREPL18S06E084-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-gbr-sui",
+    "eventTitle": "GBR v SUI (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-gbr-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/910/472/GCDG-PYREPL18S06E077-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-gbr-swe",
+    "eventTitle": "GBR v SWE (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-gbr-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/909/996/GCDG-PYREPL18S06E090-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-gbr-jpn",
+    "eventTitle": "GBR v JPN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-gbr-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/340/76/GCDG-PYREPL18S06E061-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-gbr-usa",
+    "eventTitle": "GBR v USA (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-jpn-chn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/798/660/GCDG-PYREPL18S06E071-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-jpn-chn",
+    "eventTitle": "JPN v CHN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-kor-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/465/228/GCDG-PYREPL18S06E091-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-kor-oar",
+    "eventTitle": "KOR v OAR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-jpn-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/340/576/GCDG-PYREPL18S06E087-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-jpn-swe",
+    "eventTitle": "JPN v SWE (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-kor-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/287/348/GCDG-PYREPL18S06E075-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-kor-gbr",
+    "eventTitle": "KOR v GBR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-jpn-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/492/428/GCDG-PYREPL18S06E054-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-jpn-usa",
+    "eventTitle": "JPN v USA (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-jpn-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/799/636/GCDG-PYREPL18S06E081-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-jpn-can",
+    "eventTitle": "JPN v CAN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-kor-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/128/892/GCDG-PYREPL18S06E098-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-kor-den",
+    "eventTitle": "KOR v DEN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-kor-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/785/972/GCDG-PYREPL18S06E067-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-kor-sui",
+    "eventTitle": "KOR v SUI (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-kor-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/786/448/GCDG-PYREPL18S06E065-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-kor-jpn",
+    "eventTitle": "KOR v JPN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-oar-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/675/764/GCDG-PYREPL18S06E097-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-oar-can",
+    "eventTitle": "OAR v CAN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-oar-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/796/208/GCDG-PYREPL18S06E073-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-oar-jpn",
+    "eventTitle": "OAR v JPN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-oar-gbr/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/893/380/GCDG-PYREPL18S06E055-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-oar-gbr",
+    "eventTitle": "OAR v GBR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-oar-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/797/184/GCDG-PYREPL18S06E083-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-oar-sui",
+    "eventTitle": "OAR v SUI (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-oar-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/740/552/GCDG-PYREPL18S06E070-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-oar-usa",
+    "eventTitle": "OAR v USA (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-sui-chn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/796/208/GCDG-PYREPL18S06E057-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-sui-chn",
+    "eventTitle": "SUI v CHN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-swe-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/6/592/GCDG-PYREPL18S06E068-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-swe-oar",
+    "eventTitle": "SWE v OAR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-sui-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/796/208/GCDG-PYREPL18S06E069-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-sui-swe",
+    "eventTitle": "SUI v SWE (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-sui-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/739/576/GCDG-PYREPL18S06E093-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-sui-den",
+    "eventTitle": "SUI v DEN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-usa-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/340/76/GCDG-PYREPL18S06E089-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-usa-kor",
+    "eventTitle": "USA v KOR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-swe-chn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/578/516/GCDG-PYREPL18S06E092-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-swe-chn",
+    "eventTitle": "SWE v CHN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-sui-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/902/892/GCDG-PYREPL18S06E096-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-sui-jpn",
+    "eventTitle": "SUI v JPN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-swe-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/796/208/GCDG-PYREPL18S06E082-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-swe-kor",
+    "eventTitle": "SWE v KOR (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-swe-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/667/804/GCDG-PYREPL18S06E095-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-swe-usa",
+    "eventTitle": "SWE v USA (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-usa-den/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/388/924/GCDG-PYREPL18S06E080-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-usa-den",
+    "eventTitle": "USA v DEN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-usa-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/813/952/GCDG-PYREPL18S06E064-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-usa-sui",
+    "eventTitle": "USA v SUI (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-round-robin-usa-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/672/184/GCDG-PYREPL18S06E076-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-round-robin-usa-can",
+    "eventTitle": "USA v CAN (Round Robin) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-semi-final-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/129/368/GCDG-PYREPL18S06E050-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-semi-final-1",
+    "eventTitle": "KOR v JPN (Semifinal) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/david-gleirscher-claims-mens-gold-in-heat-4-luge/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/177/868/GCDG-PYSHORT18S10E005-_E17101101_master.m3u8",
+    "eventSlug": "david-gleirscher-claims-mens-gold-in-heat-4-luge",
+    "eventTitle": "David Gleirscher claims Men's Gold in Heat 4 - Luge"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/curling-womens-semi-final-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/248/12/GCDG-PYREPL18S06E051-_E17101101_master.m3u8",
+    "eventSlug": "curling-womens-semi-final-2",
+    "eventTitle": "SWE v GBR (Semifinal) - Women's Curling - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/duhamel-and-radford-can-bronze-medal-pairs-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/879/520/GCDG-PYSHORT18S07E023-_E17101101_master.m3u8",
+    "eventSlug": "duhamel-and-radford-can-bronze-medal-pairs-free-skating",
+    "eventTitle": "Duhamel and Radford (CAN) - Bronze Medal - Pairs Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/edin-makes-a-curling-spin-o-rama-in-swedens-last-shot/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/388/652/GCDG-PYSHORT18S06E003-_E17122701_master.m3u8",
+    "eventSlug": "edin-makes-a-curling-spin-o-rama-in-swedens-last-shot",
+    "eventTitle": "Edin makes a curling spin-o-rama in Sweden's last shot"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/dirty-dancing-ski-jumpers-prepare-in-an-unusual-way/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1021/36/GCDG-PYSHORT18S11E001-_E17122701_master.m3u8",
+    "eventSlug": "dirty-dancing-ski-jumpers-prepare-in-an-unusual-way",
+    "eventTitle": "Dirty dancing- Ski jumpers prepare in an unusual way"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/dutchman-kjeld-nuis-gets-best-time-in-his-pair-to-win-gold-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/634/824/GCDG-PYSHORT18S16E005-_E17101101_master.m3u8",
+    "eventSlug": "dutchman-kjeld-nuis-gets-best-time-in-his-pair-to-win-gold-speed-skating",
+    "eventTitle": "Dutchman Kjeld Nuis gets best time in pair to win 1500m Gold - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/dutch-hero-kramer-posts-olympic-record-in-the-mens-5000m-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/110/476/GCDG-PYSHORT18S16E008-_E17101101_master.m3u8",
+    "eventSlug": "dutch-hero-kramer-posts-olympic-record-in-the-mens-5000m-speed-skating",
+    "eventTitle": "Dutch hero Kramer posts Olympic Record in the Men's 5000m - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/evgenia-medvedeva-oar-silver-medal-womens-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/109/848/GCDG-PYSHORT18S07E012-_E17101101_master.m3u8",
+    "eventSlug": "evgenia-medvedeva-oar-silver-medal-womens-free-skating",
+    "eventTitle": "Evgenia Medvedeva (OAR) - Silver Medal - Women's Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-ladies-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/787/1000/GCDG-PYREPL18S07E004-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-ladies-free-skating",
+    "eventTitle": "Women's Free Skating - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-ladies-short-program/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/670/808/GCDG-PYREPL18S07E003-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-ladies-short-program",
+    "eventTitle": "Women's Short Program - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-mens-short-program/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1009/172/GCDG-PYREPL18S07E001-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-mens-short-program",
+    "eventTitle": "Men's Short Program - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-mens-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/787/500/GCDG-PYREPL18S07E002-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-mens-free-skating",
+    "eventTitle": "Men's Free Skating - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-pairs-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/921/360/GCDG-PYREPL18S07E006-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-pairs-free-skating",
+    "eventTitle": "Pairs Free Skating - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-ice-dance-free-dance/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/774/812/GCDG-PYREPL18S07E008-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-ice-dance-free-dance",
+    "eventTitle": "Ice Dance (Free Dance) - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/figure-skating-ice-dance-short-dance/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/774/812/GCDG-PYREPL18S07E007-_E17101101_master.m3u8",
+    "eventSlug": "figure-skating-ice-dance-short-dance",
+    "eventTitle": "Ice Dance (Short Dance) - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/esmee-visser-flies-in-pair-4-to-claim-womens-5000m-gold-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/405/320/GCDG-PYSHORT18S16E009-_E17101101_master.m3u8",
+    "eventSlug": "esmee-visser-flies-in-pair-4-to-claim-womens-5000m-gold-speed-skating",
+    "eventTitle": "Esmee Visser flies in Pair 4 to claim Women's 5000m Gold - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-aerials-qualification-1-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/101/464/GCDG-PYREPL18S08E003-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-aerials-qualification-1-2",
+    "eventTitle": "Women's Aerials Qualification - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-halfpipe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/892/632/GCDG-PYREPL18S08E018-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-halfpipe",
+    "eventTitle": "Women's Halfpipe Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-aerials/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/141/156/GCDG-PYREPL18S08E004-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-aerials",
+    "eventTitle": "Women's Aerials Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-halfpipe-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/902/892/GCDG-PYREPL18S08E017-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-halfpipe-qualification",
+    "eventTitle": "Women's Halfpipe Qualification - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-moguls/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/736/452/GCDG-PYREPL18S08E010-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-moguls",
+    "eventTitle": "Women's Moguls Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-slopestyle/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/155/320/GCDG-PYREPL18S08E022-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-slopestyle",
+    "eventTitle": "Women's Slopestyle Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-slopestyle-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/519/84/GCDG-PYREPL18S08E021-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-slopestyle-qualification",
+    "eventTitle": "Women's Slopestyle Qualif. - Freestyle Skiing -  PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-ski-cross/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/195/708/GCDG-PYREPL18S08E014-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-ski-cross",
+    "eventTitle": "Women’s Ski Cross Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-ski-cross-seeding-round/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/106/344/GCDG-PYREPL18S08E013-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-ski-cross-seeding-round",
+    "eventTitle": "Women's Ski Cross Seed. Round - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-halfpipe-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/346/584/GCDG-PYREPL18S08E015-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-halfpipe-qualification",
+    "eventTitle": "Men's Halfpipe Qualification - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-aerials/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/101/464/GCDG-PYREPL18S08E002-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-aerials",
+    "eventTitle": "Men's Aerials Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-aerials-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/160/48/GCDG-PYREPL18S08E001-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-aerials-qualification",
+    "eventTitle": "Men's Aerials Qualification - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-slopestyle/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/461/976/GCDG-PYREPL18S08E020-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-slopestyle",
+    "eventTitle": "Men's Slopestyle Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-moguls-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/11/352/GCDG-PYREPL18S08E005-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-moguls-qualification",
+    "eventTitle": "Men's Moguls Qualification 1 - Freestyle Skiing - PyeongChang 2018"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-ski-cross/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/100/988/GCDG-PYREPL18S08E012-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-ski-cross",
+    "eventTitle": "Men's Ski Cross Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-slopestyle-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/198/636/GCDG-PYREPL18S08E019-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-slopestyle-qualification",
+    "eventTitle": "Men's Slopestyle Qualification - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-halfpipe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/106/344/GCDG-PYREPL18S08E016-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-halfpipe",
+    "eventTitle": "Men’s Halfpipe Finals - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-moguls-qualification-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/66/532/GCDG-PYREPL18S08E008-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-moguls-qualification-1",
+    "eventTitle": "Women's Moguls Qualif. 1 -  Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-ladies-moguls-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/196/912/GCDG-PYREPL18S08E009-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-ladies-moguls-qualification",
+    "eventTitle": "Women's Moguls Qualif. 2 - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skier-elizabeth-swaney-becomes-an-olympian-by-simply-not-falling/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1021/36/GCDG-PYSHORT18S08E016-_E17122701_master.m3u8",
+    "eventSlug": "freestyle-skier-elizabeth-swaney-becomes-an-olympian-by-simply-not-falling",
+    "eventTitle": "Freestyle skier Elizabeth Swaney becomes an Olympian by simply not falling"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-moguls/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/104/44/GCDG-PYREPL18S08E007-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-moguls",
+    "eventTitle": "Men's Moguls Finals - Freestyle Skiing - PyoengChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/freestyle-skiing-mens-ski-cross-seeding-round/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/128/892/GCDG-PYREPL18S08E011-_E17101101_master.m3u8",
+    "eventSlug": "freestyle-skiing-mens-ski-cross-seeding-round",
+    "eventTitle": "Men's Ski Cross Seeding Round - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/gabriella-papadakis-guillaume-cizeron/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/701/716/GCDG-PYSHORT18S07E032-_E17101101_master.m3u8",
+    "eventSlug": "gabriella-papadakis-guillaume-cizeron",
+    "eventTitle": "Papadakis and Cizeron (FRA) - Silver Medal - Free Ice Dance"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/galmarini-beats-lee-to-claim-mens-parallel-giant-slalom-gold-snowboard/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/131/820/GCDG-PYSHORT18S15E007-_E17101101_master.m3u8",
+    "eventSlug": "galmarini-beats-lee-to-claim-mens-parallel-giant-slalom-gold-snowboard",
+    "eventTitle": "Galmarini beats Lee to claim Men's Parallel Giant Slalom Gold - Snowboard"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/germany-wins-second-consecutive-gold-in-team-realy-luge/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/883/924/GCDG-PYSHORT18S10E014-_E17101101_master.m3u8",
+    "eventSlug": "germany-wins-second-consecutive-gold-in-team-realy-luge",
+    "eventTitle": "Germany wins second consecutive Gold in Team Relay - Luge"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/gisin-claims-womens-combined-gold-with-great-slalom-run-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1022/12/GCDG-PYSHORT18S01E008-_E17101101_master.m3u8",
+    "eventSlug": "gisin-claims-womens-combined-gold-with-great-slalom-run-alpine-skiing",
+    "eventTitle": "Gisin claims Women's Combined Gold with great Slalom Run - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/gerard-wins-mens-slopestyle-gold-with-perfect-backside-triple-snowboard/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/110/476/GCDG-PYSHORT18S15E014-_E17101101_master.m3u8",
+    "eventSlug": "gerard-wins-mens-slopestyle-gold-with-perfect-backside-triple-snowboard",
+    "eventTitle": "Gerard wins Men's Slopestyle Gold with perfect backside triple - Snowboard"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/goggia-wins-historic-womens-downhill-gold-for-italy-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/849/664/GCDG-PYSHORT18S01E012-_E17101101_master.m3u8",
+    "eventSlug": "goggia-wins-historic-womens-downhill-gold-for-italy-alpine-skiing",
+    "eventTitle": "Goggia wins historic Women's Downhill Gold for Italy - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/great-run-2-gives-shiffrin-womens-giant-slalom-gold-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/877/568/GCDG-PYSHORT18S01E016-_E17101101_master.m3u8",
+    "eventSlug": "great-run-2-gives-shiffrin-womens-giant-slalom-gold-alpine-skiing",
+    "eventTitle": "Great Run 2 gives Shiffrin Women's Giant Slalom Gold - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/hansdotter-takes-womens-slalom-gold-with-aggressive-run-2-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1008/924/GCDG-PYSHORT18S01E020-_E17101101_master.m3u8",
+    "eventSlug": "hansdotter-takes-womens-slalom-gold-with-aggressive-run-2-alpine-skiing",
+    "eventTitle": "Hansdotter takes Women's Slalom Gold with aggressive Run 2 - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-mens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1012/328/GCDG-PYSHORT18S13E001-_E17101101_master.m3u8",
+    "eventSlug": "heat-1-mens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Men's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-four-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/148/412/GCDG-PYSHORT18S03E008-_E17122701_master.m3u8",
+    "eventSlug": "heat-1-four-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Four-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-four-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/147/936/GCDG-PYSHORT18S03E009-_E17122701_master.m3u8",
+    "eventSlug": "heat-2-four-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Four-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-womens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1011/352/GCDG-PYSHORT18S13E008-_E17101101_master.m3u8",
+    "eventSlug": "heat-1-womens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Women's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-3-four-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/219/132/GCDG-PYSHORT18S03E10-_E17122701_master.m3u8",
+    "eventSlug": "heat-3-four-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 3 - Four-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-mens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/121/712/GCDG-PYSHORT18S10E001-_E17101101_master.m3u8",
+    "eventSlug": "heat-1-mens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Men’s Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-doubles-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/764/780/GCDG-PYSHORT18S10E011-_E17101101_master.m3u8",
+    "eventSlug": "heat-1-doubles-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Doubles Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-doubles-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/764/780/GCDG-PYSHORT18S10E012-_E17101101_master.m3u8",
+    "eventSlug": "heat-2-doubles-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Doubles Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-mens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1016/732/GCDG-PYSHORT18S13E002-_E17101101_master.m3u8",
+    "eventSlug": "heat-2-mens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Men's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-two-woman-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/673/888/GCDG-PYSHORT18S03E16-_E17122701_master.m3u8",
+    "eventSlug": "heat-2-two-woman-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Two-Woman Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-two-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/850/640/GCDG-PYSHORT18S03E002-_E17122701_master.m3u8",
+    "eventSlug": "heat-2-two-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Two-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-two-woman-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/674/364/GCDG-PYSHORT18S03E15-_E17122701_master.m3u8",
+    "eventSlug": "heat-1-two-woman-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Two-Woman Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-womens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1011/352/GCDG-PYSHORT18S13E009-_E17101101_master.m3u8",
+    "eventSlug": "heat-2-womens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Women's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-mens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/257/948/GCDG-PYSHORT18S10E002-_E17101101_master.m3u8",
+    "eventSlug": "heat-2-mens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Men’s Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-4-mens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1003/44/GCDG-PYSHORT18S10E004-_E17101101_master.m3u8",
+    "eventSlug": "heat-4-mens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 4 - Men’s Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-4-four-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/473/612/GCDG-PYSHORT18S03E11-_E17122701_master.m3u8",
+    "eventSlug": "heat-4-four-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 4 - Four-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-3-two-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/816/956/GCDG-PYSHORT18S03E003-_E17122701_master.m3u8",
+    "eventSlug": "heat-3-two-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 3 - Two-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-3-mens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/308/224/GCDG-PYSHORT18S10E003-_E17101101_master.m3u8",
+    "eventSlug": "heat-3-mens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 3 - Men’s Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-4-two-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/672/912/GCDG-PYSHORT18S03E004-_E17122701_master.m3u8",
+    "eventSlug": "heat-4-two-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 4 - Two-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-3-mens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/885/376/GCDG-PYSHORT18S13E003-_E17101101_master.m3u8",
+    "eventSlug": "heat-3-mens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 3 - Men's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-3-two-woman-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/850/140/GCDG-PYSHORT18S03E17-_E17122701_master.m3u8",
+    "eventSlug": "heat-3-two-woman-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 3 - Two-Woman Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-4-mens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1013/304/GCDG-PYSHORT18S13E004-_E17101101_master.m3u8",
+    "eventSlug": "heat-4-mens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 4 - Men's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-2-womens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/615/356/GCDG-PYSHORT18S10E007-_E17101101_master.m3u8",
+    "eventSlug": "heat-2-womens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 2 - Women's Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-two-man-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/642/632/GCDG-PYSHORT18S03E001-_E17122701_master.m3u8",
+    "eventSlug": "heat-1-two-man-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Two-Man Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-4-womens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/254/444/GCDG-PYSHORT18S13E011-_E17122701_master.m3u8",
+    "eventSlug": "heat-4-womens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 4 - Women's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-1-womens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/590/456/GCDG-PYSHORT18S10E006-_E17101101_master.m3u8",
+    "eventSlug": "heat-1-womens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 1 - Women's Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-4-womens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/618/284/GCDG-PYSHORT18S10E009-_E17101101_master.m3u8",
+    "eventSlug": "heat-4-womens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 4 - Women's Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-3-womens-luge-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/618/784/GCDG-PYSHORT18S10E008-_E17101101_master.m3u8",
+    "eventSlug": "heat-3-womens-luge-pyeongchang-2018-replays",
+    "eventTitle": "Heat 3 - Women's Luge - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-3-womens-skeleton-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/148/488/GCDG-PYSHORT18S13E010-_E17101101_master.m3u8",
+    "eventSlug": "heat-3-womens-skeleton-pyeongchang-2018-replays",
+    "eventTitle": "Heat 3 - Women's Skeleton - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/heat-4-two-woman-bobsleigh-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/850/640/GCDG-PYSHORT18S03E18-_E17122701_master.m3u8",
+    "eventSlug": "heat-4-two-woman-bobsleigh-pyeongchang-2018-replays",
+    "eventTitle": "Heat 4 - Two-Woman Bobsleigh - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/hirscher-dominates-mens-giant-slalom-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/637/252/GCDG-PYSHORT18S01E015-_E17101101_master.m3u8",
+    "eventSlug": "hirscher-dominates-mens-giant-slalom-alpine-skiing",
+    "eventTitle": "Hirscher dominates Men's Giant Slalom - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/hirscher-wins-mens-combined-with-superb-slalom-run-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/566/532/GCDG-PYSHORT18S01E006-_E17101101_master.m3u8",
+    "eventSlug": "hirscher-wins-mens-combined-with-superb-slalom-run-alpine-skiing",
+    "eventTitle": "Hirscher wins Men's Combined with superb slalom run - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/hoefflin-gets-top-score-and-slopestyles-gold-in-last-run-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/39/604/GCDG-PYSHORT18S08E014-_E17101101_master.m3u8",
+    "eventSlug": "hoefflin-gets-top-score-and-slopestyles-gold-in-last-run-freestyle-skiing",
+    "eventTitle": "Hoefflin gets top score and Slopestyle's Gold in last Run - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/home-hero-yun-sung-bin-comfortably-slides-to-mens-gold-skeleton/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1008/424/GCDG-PYSHORT18S13E005-_E17101101_master.m3u8",
+    "eventSlug": "home-hero-yun-sung-bin-comfortably-slides-to-mens-gold-skeleton",
+    "eventTitle": "Home hero Yun Sung-bin comfortably slides to Men's Gold - Skeleton"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/huskova-gains-womens-aerials-gold-with-great-last-round-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/635/300/GCDG-PYSHORT18S08E004-_E17101101_master.m3u8",
+    "eventSlug": "huskova-gains-womens-aerials-gold-with-great-last-round-freestyle-skiing",
+    "eventTitle": "Huskova gains Women's Aerials Gold with great last round - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-can-cze/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/282/620/GCDG-PYREPL18S09E003-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-can-cze",
+    "eventTitle": "CAN v CZE (Group A) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-can-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/276/764/GCDG-PYREPL18S09E006-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-can-kor",
+    "eventTitle": "CAN v KOR (Group A) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/huge-score-and-mens-moguls-gold-for-mikael-kingsbury-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/569/460/GCDG-PYSHORT18S08E006-_E17101101_master.m3u8",
+    "eventSlug": "huge-score-and-mens-moguls-gold-for-mikael-kingsbury-freestyle-skiing",
+    "eventTitle": "Huge score and Men's Moguls Gold for Mikael Kingsbury - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-nor-swe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/884/672/GCDG-PYREPL18S09E014-_E18021701_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-nor-swe",
+    "eventTitle": "NOR v SWE (Group C) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-fin-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/349/1012/GCDG-PYREPL18S09E015-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-fin-nor",
+    "eventTitle": "FIN v NOR (Group C) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-ger-nor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1013/576/GCDG-PYREPL18S09E017-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-ger-nor",
+    "eventTitle": "GER v NOR (Group C) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-kor-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/879/792/GCDG-PYREPL18S09E004-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-kor-sui",
+    "eventTitle": "KOR v SUI (Group A) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-cze-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/271/884/GCDG-PYREPL18S09E005-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-cze-sui",
+    "eventTitle": "CZE v SUI (Group A) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-fin-ger/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/282/620/GCDG-PYREPL18S09E013-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-fin-ger",
+    "eventTitle": "FIN v GER (Group C) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/hockey-fan-catches-flying-puck/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/386/200/GCDG-PYSHORT18S09E007-_E18022401_master.m3u8",
+    "eventSlug": "hockey-fan-catches-flying-puck",
+    "eventTitle": "Hockey fan catches flying puck"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-oar-slo/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/301/164/GCDG-PYREPL18S09E010-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-oar-slo",
+    "eventTitle": "OAR v SLO (Group B) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-slo-svk/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/278/716/GCDG-PYREPL18S09E012-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-slo-svk",
+    "eventTitle": "SLO v SVK (Group B) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-bronze-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/399/888/GCDG-PYREPL18S09E029-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-bronze-medal",
+    "eventTitle": "CZE v CAN (Bronze Medal Game) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-gold-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/399/888/GCDG-PYREPL18S09E030-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-gold-medal",
+    "eventTitle": "OAR v GER (Gold Medal Match) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-sui-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/473/188/GCDG-PYREPL18S09E002-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-sui-can",
+    "eventTitle": "SUI v CAN (Group A) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-svk-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/155/320/GCDG-PYREPL18S09E007-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-svk-oar",
+    "eventTitle": "SVK v OAR (Group B) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-oar-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/520/60/GCDG-PYREPL18S09E011-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-oar-usa",
+    "eventTitle": "OAR v USA (Group B) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-swe-fin/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/207/344/GCDG-PYREPL18S09E018-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-swe-fin",
+    "eventTitle": "SWE v FIN (Group C) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-usa-slo/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/300/688/GCDG-PYREPL18S09E008-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-usa-slo",
+    "eventTitle": "USA v SLO (Group B) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-swe-ger/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/519/84/GCDG-PYREPL18S09E016-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-swe-ger",
+    "eventTitle": "SWE v GER (Group C) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-qualification-play-off-3/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/384/672/GCDG-PYREPL18S09E021-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-qualification-play-off-3",
+    "eventTitle": "FIN v KOR (Playoff) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-quarter-finals-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/892/632/GCDG-PYREPL18S09E024-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-quarter-finals-2",
+    "eventTitle": "OAR v NOR (Quarterfinal) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-preliminary-round-usa-svk/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/880/768/GCDG-PYREPL18S09E009-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-preliminary-round-usa-svk",
+    "eventTitle": "USA v SVK (Group B) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-quarter-finals-3/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/2/416/GCDG-PYREPL18S09E025-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-quarter-finals-3",
+    "eventTitle": "CAN v FIN (Quarterfinal) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-semi-final-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/246/60/GCDG-PYREPL18S09E028-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-semi-final-2",
+    "eventTitle": "CAN v GER (Semifinal) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-semi-final-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/247/536/GCDG-PYREPL18S09E027-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-semi-final-1",
+    "eventTitle": "CZE v OAR (Semifinal) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-quarter-finals-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/247/536/GCDG-PYREPL18S09E023-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-quarter-finals-1",
+    "eventTitle": "CZE v USA (Quarterfinal) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-qualification-play-off-4/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/392/980/GCDG-PYREPL18S09E022-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-qualification-play-off-4",
+    "eventTitle": "SUI v GER (Playoff) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-qualification-play-off-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1013/576/GCDG-PYREPL18S09E019-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-qualification-play-off-1",
+    "eventTitle": "USA v SVK (Playoff) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-qualification-play-off-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/392/980/GCDG-PYREPL18S09E020-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-qualification-play-off-2",
+    "eventTitle": "SLO v NOR (Playoff) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-mens-quarter-finals-4/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/2/416/GCDG-PYREPL18S09E026-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-mens-quarter-finals-4",
+    "eventTitle": "SWE v GER (Quarterfinal) - Men's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-classification-game-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/314/4/GCDG-PYREPL18S09E049-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-classification-game-1",
+    "eventTitle": "SUI v COR (Classif. Game) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-classification-game-4/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1/940/GCDG-PYREPL18S09E052-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-classification-game-4",
+    "eventTitle": "SUI v JPN (Classif. Game) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-bronze-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1/940/GCDG-PYREPL18S09E047-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-bronze-medal",
+    "eventTitle": "FIN v OAR (Bronze Medal Game)- Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-classification-game-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/643/108/GCDG-PYREPL18S09E050-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-classification-game-2",
+    "eventTitle": "SWE v JPN (Classif. Game) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-classification-game-3/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/277/164/GCDG-PYREPL18S09E051-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-classification-game-3",
+    "eventTitle": "SWE v COR (Classif. Game) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-gold-medal/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/898/336/GCDG-PYREPL18S09E048-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-gold-medal",
+    "eventTitle": "CAN v USA (Gold Medal Game) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-quarter-finals-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/298/888/GCDG-PYREPL18S09E044-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-quarter-finals-2",
+    "eventTitle": "FIN v SWE (Quarterfinal) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-semi-final-2/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/384/672/GCDG-PYREPL18S09E046-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-semi-final-2",
+    "eventTitle": "CAN v OAR (Semifinal) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-sui-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/30/320/GCDG-PYREPL18S09E039-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-sui-jpn",
+    "eventTitle": "SUI v JPN (Group B) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-fin-usa/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/760/876/GCDG-PYREPL18S09E031-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-fin-usa",
+    "eventTitle": "FIN v USA (Group A) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-can-fin/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/29/344/GCDG-PYREPL18S09E033-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-can-fin",
+    "eventTitle": "CAN v FIN (Group A) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-kor-jpn/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/350/988/GCDG-PYREPL18S09E042-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-kor-jpn",
+    "eventTitle": "COR v JPN (Group B) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-quarter-finals-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/256/396/GCDG-PYREPL18S09E043-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-quarter-finals-1",
+    "eventTitle": "OAR v SUI (Quarterfinal) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-semi-final-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/384/672/GCDG-PYREPL18S09E045-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-semi-final-1",
+    "eventTitle": "USA v FIN (Semifinal) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-oar-fin/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/920/384/GCDG-PYREPL18S09E036-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-oar-fin",
+    "eventTitle": "OAR v FIN (Group A) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-swe-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/30/320/GCDG-PYREPL18S09E040-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-swe-kor",
+    "eventTitle": "SWE v COR (Group B) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-usa-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/29/844/GCDG-PYREPL18S09E034-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-usa-oar",
+    "eventTitle": "USA v OAR (Group A) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-can-oar/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1018/684/GCDG-PYREPL18S09E032-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-can-oar",
+    "eventTitle": "CAN v OAR (Group A) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-sui-kor/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1019/160/GCDG-PYREPL18S09E038-_E18021202_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-sui-kor",
+    "eventTitle": "SUI v COR (Group B) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-swe-sui/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/7/144/GCDG-PYREPL18S09E041-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-swe-sui",
+    "eventTitle": "SWE v SUI (Group B) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ice-hockey-womens-preliminary-round-usa-can/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/7/644/GCDG-PYREPL18S09E035-_E17101101_master.m3u8",
+    "eventSlug": "ice-hockey-womens-preliminary-round-usa-can",
+    "eventTitle": "USA v CAN (Group A) - Women's Ice Hockey - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ivett-toth-we-salute-you-figure-skater-brings-ac-dc-on-ice/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/388/152/GCDG-PYSHORT18S07E054-_E17122701_master.m3u8",
+    "eventSlug": "ivett-toth-we-salute-you-figure-skater-brings-ac-dc-on-ice",
+    "eventTitle": "Ivett Toth, we salute you! Figure skater brings AC-DC on ice"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/japans-kodaira-speeds-to-womens-500m-gold-in-pair-14-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/637/752/GCDG-PYSHORT18S16E002-_E17101101_master.m3u8",
+    "eventSlug": "japans-kodaira-speeds-to-womens-500m-gold-in-pair-14-speed-skating",
+    "eventTitle": "Japan's Kodaira speeds to Women's 500m gold in Pair 14 - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/japans-nana-takagi-wins-womens-mass-start-final-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/148/912/GCDG-PYSHORT18S16E012-_E17101101_master.m3u8",
+    "eventSlug": "japans-nana-takagi-wins-womens-mass-start-final-speed-skating",
+    "eventTitle": "Japan's Nana Takagi wins Women's Mass Start final - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/javier-fernandez-esp-bronze-medal-mens-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/243/708/GCDG-PYSHORT18S07E003-_E17101101_master.m3u8",
+    "eventSlug": "javier-fernandez-esp-bronze-medal-mens-free-skating",
+    "eventTitle": "Javier Fernandez (ESP) - Bronze Medal - Men's Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/kaetlyn-osmond-can-bronze-medal-womens-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/110/824/GCDG-PYSHORT18S07E013-_E17101101_master.m3u8",
+    "eventSlug": "kaetlyn-osmond-can-bronze-medal-womens-free-skating",
+    "eventTitle": "Kaetlyn Osmond (CAN) - Bronze Medal - Women's Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/kamil-stoch-my-pyeongchang-highlights/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/222/636/GCDG-PYCAHIGHS01E007-_E18022401_master.m3u8",
+    "eventSlug": "kamil-stoch-my-pyeongchang-highlights",
+    "eventTitle": "Kamil Stoch- My PyeongChang Highlights"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/lee-seung-hoon-wins-first-mens-mass-start-gold-medal-ever-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/157/196/GCDG-PYSHORT18S16E011-_E17101101_master.m3u8",
+    "eventSlug": "lee-seung-hoon-wins-first-mens-mass-start-gold-medal-ever-speed-skating",
+    "eventTitle": "Lee Seung-hoon wins first Men's Mass Start Gold medal ever - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/last-but-not-least-madrazo-gets-applauded-despite-finishing-116th/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1022/512/GCDG-PYSHORT18S05E005-_E17122801_master.m3u8",
+    "eventSlug": "last-but-not-least-madrazo-gets-applauded-despite-finishing-116th",
+    "eventTitle": "Last but not least- Madrazo gets applauded despite finishing 116th"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ledecka-beats-joerg-to-claim-womens-parallel-giant-slalom-gold-snowboard/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/148/912/GCDG-PYSHORT18S15E009-_E17101101_master.m3u8",
+    "eventSlug": "ledecka-beats-joerg-to-claim-womens-parallel-giant-slalom-gold-snowboard",
+    "eventTitle": "Ledecka beats Joerg to claim Women's Parallel Giant Slalom Gold - Snowboard"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/liu-wins-gold-for-hungary-then-carries-injured-girlfriend-christie-to-podium/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/124/988/GCDG-PYSHORT18S12E027-_E18021701_master.m3u8",
+    "eventSlug": "liu-wins-gold-for-hungary-then-carries-injured-girlfriend-christie-to-podium",
+    "eventTitle": "Liu wins gold for Hungary then carries injured girlfriend Christie to podium"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/lorentzen-wins-gold-in-the-mens-500m-with-olympic-record-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/752/992/GCDG-PYSHORT18S16E001-_E17101101_master.m3u8",
+    "eventSlug": "lorentzen-wins-gold-in-the-mens-500m-with-olympic-record-speed-skating",
+    "eventTitle": "Lorentzen wins Gold in the Men's 500m with Olympic Record - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/m-team-pursuit-bronze-medal-final-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/853/568/GCDG-PYSHORT18S16E014-_E17101101_master.m3u8",
+    "eventSlug": "m-team-pursuit-bronze-medal-final-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "M Team Pursuit Bronze Medal Final - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/matthias-mayer-grabs-gold-in-the-mens-super-g-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1004/520/GCDG-PYSHORT18S01E023-_E17101101_master.m3u8",
+    "eventSlug": "matthias-mayer-grabs-gold-in-the-mens-super-g-alpine-skiing",
+    "eventTitle": "Matthias Mayer grabs gold in the Men's Super-G - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/madison-chock-evan-bates/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/814/504/GCDG-PYSHORT18S07E039-_E17101101_master.m3u8",
+    "eventSlug": "madison-chock-evan-bates",
+    "eventTitle": "Chock and Bates (USA) - 9th Place - Free Ice Dance"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-1000m-semi-final-1-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/39/104/GCDG-PYSHORT18S12E008-_E17101101_master.m3u8",
+    "eventSlug": "mens-1000m-semi-final-1-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 1000m, Semi-Final 1 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-500m-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1023/988/GCDG-PYSHORT18S12E001-_E17101101_master.m3u8",
+    "eventSlug": "mens-500m-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 500m, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-500m-semi-final-1-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1022/1012/GCDG-PYSHORT18S12E002-_E17101101_master.m3u8",
+    "eventSlug": "mens-500m-semi-final-1-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 500m, Semi-Final 1 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-1000m-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/147/512/GCDG-PYSHORT18S12E007-_E17101101_master.m3u8",
+    "eventSlug": "mens-1000m-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 1000m, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-500m-semi-final-2-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/45/384/GCDG-PYSHORT18S12E003-_E17101101_master.m3u8",
+    "eventSlug": "mens-500m-semi-final-2-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 500m, Semi-Final 2 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-500m-w-team-pursuit-qual-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/643/108/GCDG-PYREPL18S16E001-_E17101101_master.m3u8",
+    "eventSlug": "mens-500m-w-team-pursuit-qual-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 500m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-1500m-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/109/500/GCDG-PYSHORT18S12E013-_E17122701_master.m3u8",
+    "eventSlug": "mens-1500m-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 1500m, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-big-air-final-snowboard-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/132/296/GCDG-PYSHORT18S15E001-_E17101101_master.m3u8",
+    "eventSlug": "mens-big-air-final-snowboard-pyeongchang-2018-replays",
+    "eventTitle": "Men's Big Air, Final - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-1000m-semi-final-2-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/41/556/GCDG-PYSHORT18S12E009-_E17122701_master.m3u8",
+    "eventSlug": "mens-1000m-semi-final-2-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's 1000m, Semi-Final 2 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-ski-cross-big-final-freestyle-skiing-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/849/164/GCDG-PYSHORT18S08E009-_E17101101_master.m3u8",
+    "eventSlug": "mens-ski-cross-big-final-freestyle-skiing-pyeongchang-2018-replays",
+    "eventTitle": "Men's Ski Cross Big Final - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-relay-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1023/988/GCDG-PYSHORT18S12E021-_E17122801_master.m3u8",
+    "eventSlug": "mens-relay-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's Relay, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-large-hill-final-round-ski-jumping-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/44/984/GCDG-PYSHORT18S14E002-_E17101101_master.m3u8",
+    "eventSlug": "mens-large-hill-final-round-ski-jumping-pyeongchang-2018-replays",
+    "eventTitle": "Men's Large Hill, Final Round - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-normal-hill-final-round-ski-jumping-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/111/452/GCDG-PYSHORT18S14E001-_E17101101_master.m3u8",
+    "eventSlug": "mens-normal-hill-final-round-ski-jumping-pyeongchang-2018-replays",
+    "eventTitle": "Men's Normal Hill, Final Round - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-snowboard-cross-big-final-snowboard-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/38/628/GCDG-PYSHORT18S15E011-_E17101101_master.m3u8",
+    "eventSlug": "mens-snowboard-cross-big-final-snowboard-pyeongchang-2018-replays",
+    "eventTitle": "Men's Snowboard Cross, Big Final - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/mens-team-pursuit-final-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/849/164/GCDG-PYSHORT18S16E013-_E17101101_master.m3u8",
+    "eventSlug": "mens-team-pursuit-final-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Men's Team Pursuit Final - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/myhrer-wins-mens-slalom-with-steady-second-run-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/110/324/GCDG-PYSHORT18S01E019-_E17101101_master.m3u8",
+    "eventSlug": "myhrer-wins-mens-slalom-with-steady-second-run-alpine-skiing",
+    "eventTitle": "Myhrer wins Men's Slalom with steady second Run - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/natalie-geisenberger-retains-womens-title-luge/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/566/532/GCDG-PYSHORT18S10E010-_E17101101_master.m3u8",
+    "eventSlug": "natalie-geisenberger-retains-womens-title-luge",
+    "eventTitle": "Natalie Geisenberger retains Women's title - Luge"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/nordic-combined-mens-individual-large-hill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/892/632/GCDG-PYREPL18S11E003-_E17121901_master.m3u8",
+    "eventSlug": "nordic-combined-mens-individual-large-hill",
+    "eventTitle": "Large Hill 10km, Ski Jumping - Nordic Combined - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/nordic-combined-mens-individual-normal-hill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/788/204/GCDG-PYREPL18S11E001-_E17121901_master.m3u8",
+    "eventSlug": "nordic-combined-mens-individual-normal-hill",
+    "eventTitle": "Normal Hill 10km, Ski Jumping - Nordic Combined - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/nordic-combined-mens-individual-10-km/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/786/752/GCDG-PYREPL18S11E002-_E17121901_master.m3u8",
+    "eventSlug": "nordic-combined-mens-individual-10-km",
+    "eventTitle": "Normal Hill 10km, Cross Country - Nordic Combined - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/nordic-combined-mens-team-4-x-5-km/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/45/384/GCDG-PYREPL18S11E006-_E17121901_master.m3u8",
+    "eventSlug": "nordic-combined-mens-team-4-x-5-km",
+    "eventTitle": "Team Event, Cross Country - Nordic Combined - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/nordic-combined-mens-team-large-hill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/38/52/GCDG-PYREPL18S11E005-_E17121901_master.m3u8",
+    "eventSlug": "nordic-combined-mens-team-large-hill",
+    "eventTitle": "Team Event, Ski Jumping - Nordic Combined - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/nuis-wins-mens-1000m-skating-in-pair-18-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/116/680/GCDG-PYSHORT18S16E003-_E17101101_master.m3u8",
+    "eventSlug": "nuis-wins-mens-1000m-skating-in-pair-18-speed-skating",
+    "eventTitle": "Nuis wins Men's 1000m skating in Pair 18 - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/opening-ceremony-1/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/906/448/GCDG-PYREPL18S04E001-_E17101101_master.m3u8",
+    "eventSlug": "opening-ceremony-1",
+    "eventTitle": "Opening Ceremony - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/perrine-laffonts-gold-medal-round-in-the-womens-moguls-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/235/476/GCDG-PYSHORT18S08E008-_E17101101_master.m3u8",
+    "eventSlug": "perrine-laffonts-gold-medal-round-in-the-womens-moguls-freestyle-skiing",
+    "eventTitle": "Perrine Laffont's Gold medal round in the Women's Moguls - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/sharpes-second-run-is-enough-for-womens-halfpipe-gold-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/825/740/GCDG-PYSHORT18S08E012-_E17101101_master.m3u8",
+    "eventSlug": "sharpes-second-run-is-enough-for-womens-halfpipe-gold-freestyle-skiing",
+    "eventTitle": "Sharpe's second run is enough for Women's Halfpipe Gold - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/savchenko-and-massot-ger-gold-medal-pairs-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/878/544/GCDG-PYSHORT18S07E021-_E17101101_master.m3u8",
+    "eventSlug": "savchenko-and-massot-ger-gold-medal-pairs-free-skating",
+    "eventTitle": "Savchenko and Massot (GER) - Gold Medal - Pairs Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/short-track-ladies-1000m-mens-500m-ladies-3000m-relay-final/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/350/988/GCDG-PYREPL18S12E004-_E17101101_master.m3u8",
+    "eventSlug": "short-track-ladies-1000m-mens-500m-ladies-3000m-relay-final",
+    "eventTitle": "Day 4 - Short Track Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/short-track-ladies-500m-final-mens-1000m-mens-5000m-relay/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/256/396/GCDG-PYREPL18S12E002-_E17101101_master.m3u8",
+    "eventSlug": "short-track-ladies-500m-final-mens-1000m-mens-5000m-relay",
+    "eventTitle": "Day 2 - Short Track Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/short-track-ladies-1500m-mens-1000m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/7/644/GCDG-PYREPL18S12E003-_E17101101_master.m3u8",
+    "eventSlug": "short-track-ladies-1500m-mens-1000m",
+    "eventTitle": "Day 3 - Short Track Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/shaun-white-grabs-mens-halfpipe-gold-on-his-very-last-run-snowboard/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/635/376/GCDG-PYSHORT18S15E004-_E17101101_master.m3u8",
+    "eventSlug": "shaun-white-grabs-mens-halfpipe-gold-on-his-very-last-run-snowboard",
+    "eventTitle": "Shaun White grabs Men's Halfpipe Gold on his very last run - Snowboard"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/short-track-mens-1500m-final-ladies-500m-ladies-3000m-relay/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/728/644/GCDG-PYREPL18S12E001-_E17101101_master.m3u8",
+    "eventSlug": "short-track-mens-1500m-final-ladies-500m-ladies-3000m-relay",
+    "eventTitle": "Day 1 - Short Track Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/short-track-mens-500m-ladies-1000m-mens-5000m-relay/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/6/668/GCDG-PYREPL18S12E005-_E17101101_master.m3u8",
+    "eventSlug": "short-track-mens-500m-ladies-1000m-mens-5000m-relay",
+    "eventTitle": "Day 5 - Short Track Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ski-jumping-mens-individual-normal-hill-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/989/456/GCDG-PYREPL18S14E001-_E18021002_master.m3u8",
+    "eventSlug": "ski-jumping-mens-individual-normal-hill-qualification",
+    "eventTitle": "Men's Normal Hill, Qualification - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ski-jumping-mens-individual-large-hill-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/347/560/GCDG-PYREPL18S14E003-_E17101101_master.m3u8",
+    "eventSlug": "ski-jumping-mens-individual-large-hill-qualification",
+    "eventTitle": "Men's Large Hill, Qualification- Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ski-jumping-mens-individual-large-hill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/347/560/GCDG-PYREPL18S14E004-_E17101101_master.m3u8",
+    "eventSlug": "ski-jumping-mens-individual-large-hill",
+    "eventTitle": "Men's Large Hill, Final - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ski-jumping-mens-individual-normal-hill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/727/668/GCDG-PYREPL18S14E002-_E17101101_master.m3u8",
+    "eventSlug": "ski-jumping-mens-individual-normal-hill",
+    "eventTitle": "Men's Normal Hill, Final - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/shoma-uno-jpn-silver-medal-mens-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/234/924/GCDG-PYSHORT18S07E002-_E17101101_master.m3u8",
+    "eventSlug": "shoma-uno-jpn-silver-medal-mens-free-skating",
+    "eventTitle": "Shoma Uno (JPN) - Silver Medal - Men's Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ski-jumping-womens-individual-normal-hill/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1018/684/GCDG-PYREPL18S14E005-_E17101101_master.m3u8",
+    "eventSlug": "ski-jumping-womens-individual-normal-hill",
+    "eventTitle": "Women's Normal Hill - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-big-air-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/91/704/GCDG-PYREPL18S15E003-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-big-air-qualification",
+    "eventTitle": "Women's Big Air Qualification - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-big-air-finals/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/954/568/GCDG-PYREPL18S15E004-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-big-air-finals",
+    "eventTitle": "Women's Big Air Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-halfpipe-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/115/280/GCDG-PYREPL18S15E007-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-halfpipe-qualification",
+    "eventTitle": "Women's Halfpipe Qualification - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-big-air/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/951/140/GCDG-PYREPL18S15E002-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-big-air",
+    "eventTitle": "Men's Big Air Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-halfpipe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/105/1020/GCDG-PYREPL18S15E008-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-halfpipe",
+    "eventTitle": "Women's Halfpipe Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-halfpipe/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1009/248/GCDG-PYREPL18S15E006-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-halfpipe",
+    "eventTitle": "Men's Halfpipe Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-big-air-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/37/576/GCDG-PYREPL18S15E001-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-big-air-qualification",
+    "eventTitle": "Men's Big Air Qualification - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-halfpipe-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/298/888/GCDG-PYREPL18S15E005-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-halfpipe-qualification",
+    "eventTitle": "Men's Halfpipe Qualification - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-slopestyle/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/298/888/GCDG-PYREPL18S15E016-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-slopestyle",
+    "eventTitle": "Women's Slopestyle Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-slopestyle/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/105/20/GCDG-PYREPL18S15E014-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-slopestyle",
+    "eventTitle": "Men's Slopestyle Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-mens-parallel-giant-slalom-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/346/584/GCDG-PYREPL18S15E017-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-mens-parallel-giant-slalom-qualification",
+    "eventTitle": "W-M Parallel Giant Slalom Qualif.  - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-slopestyle-qualification/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/106/496/GCDG-PYREPL18S15E013-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-slopestyle-qualification",
+    "eventTitle": "Men's Slopestyle Qualification - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-mens-parallel-giant-slalom/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/955/44/GCDG-PYREPL18S15E018-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-mens-parallel-giant-slalom",
+    "eventTitle": "W-M Parallel Giant Slalom Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-snowboard-cross-seeding-round/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/6/668/GCDG-PYREPL18S15E009-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-snowboard-cross-seeding-round",
+    "eventTitle": "Men's Snowboard Cross Seeding Round - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-snowboard-cross-seeding-round/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1003/544/GCDG-PYREPL18S15E011-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-snowboard-cross-seeding-round",
+    "eventTitle": "Women's Snowboard Cross Seeding Round - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboarding-specialist-ledecka-wins-gold-in-womens-super-g-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/38/128/GCDG-PYSHORT18S01E024-_E17101101_master.m3u8",
+    "eventSlug": "snowboarding-specialist-ledecka-wins-gold-in-womens-super-g-alpine-skiing",
+    "eventTitle": "Snowboarding specialist Ledecka wins gold in Women's Super-G - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-ladies-snowboard-cross/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/93/808/GCDG-PYREPL18S15E012-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-ladies-snowboard-cross",
+    "eventTitle": "Women's Snowboard Cross Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-ladies-1000m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/765/756/GCDG-PYREPL18S16E004-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-ladies-1000m",
+    "eventTitle": "Women's 1000m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-ladies-1500m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/589/980/GCDG-PYREPL18S16E006-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-ladies-1500m",
+    "eventTitle": "Women's 1500m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-ladies-5000m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1019/160/GCDG-PYREPL18S16E009-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-ladies-5000m",
+    "eventTitle": "Women's 5000m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-mens-1000m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/148/412/GCDG-PYREPL18S16E003-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-mens-1000m",
+    "eventTitle": "Men's 1000m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-mens-5000m/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/389/280/GCDG-PYREPL18S16E008-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-mens-5000m",
+    "eventTitle": "Men's 5000m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/snowboard-mens-snowboard-cross/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/530/320/GCDG-PYREPL18S15E010-_E17101101_master.m3u8",
+    "eventSlug": "snowboard-mens-snowboard-cross",
+    "eventTitle": "Men's Snowboard Cross Finals - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/speed-skating-ladies-mens-team-pursuit-finals/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/53/540/GCDG-PYREPL18S16E014-_E17101101_master.m3u8",
+    "eventSlug": "speed-skating-ladies-mens-team-pursuit-finals",
+    "eventTitle": "Men's-Women's Team Pursuit Finals - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/squirrel-crashes-parallel-giant-slalom-competition/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/125/464/GCDG-PYSHORT18S15E021-_E17122701_master.m3u8",
+    "eventSlug": "squirrel-crashes-parallel-giant-slalom-competition",
+    "eventTitle": "Squirrel 'crashes' Parallel Giant Slalom competition"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/sui-v-aut-gold-team-event-alpine-skiing-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/131/320/GCDG-PYSHORT18S01E025-_E17101101_master.m3u8",
+    "eventSlug": "sui-v-aut-gold-team-event-alpine-skiing-pyeongchang-2018-replays",
+    "eventTitle": "SUI v AUT (Gold) Team Event - Alpine Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/superb-first-run-gives-braaten-mens-slopestyle-gold-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/638/228/GCDG-PYSHORT18S08E013-_E17101101_master.m3u8",
+    "eventSlug": "superb-first-run-gives-braaten-mens-slopestyle-gold-freestyle-skiing",
+    "eventTitle": "Superb first Run gives Braaten Men's Slopestyle Gold - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/sui-wenjing-and-han-cong-chn-silver-medal-pairs-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/38/628/GCDG-PYSHORT18S07E022-_E17101101_master.m3u8",
+    "eventSlug": "sui-wenjing-and-han-cong-chn-silver-medal-pairs-free-skating",
+    "eventTitle": "Sui Wenjing and Han Cong (CHN) - Silver Medal - Pairs Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/svindal-is-first-norwegian-to-take-mens-downhill-gold-alpine-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/877/568/GCDG-PYSHORT18S01E011-_E17101101_master.m3u8",
+    "eventSlug": "svindal-is-first-norwegian-to-take-mens-downhill-gold-alpine-skiing",
+    "eventTitle": "Svindal is first Norwegian to take Men's Downhill Gold - Alpine Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-mens-short-program-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/957/224/GCDG-PYSHORT18S07E041-_E17101101_master.m3u8",
+    "eventSlug": "team-event-mens-short-program-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Men's Short Program - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-short-dance-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/306/272/GCDG-PYSHORT18S07E047-_E17101101_master.m3u8",
+    "eventSlug": "team-event-short-dance-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Short Dance - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-pairs-free-skating-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/306/772/GCDG-PYSHORT18S07E046-_E17101101_master.m3u8",
+    "eventSlug": "team-event-pairs-free-skating-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Pairs Free Skating - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-womens-short-program-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/257/448/GCDG-PYSHORT18S07E043-_E17101101_master.m3u8",
+    "eventSlug": "team-event-womens-short-program-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Women's Short Program - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-free-dance-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/568/984/GCDG-PYSHORT18S07E048-_E17101101_master.m3u8",
+    "eventSlug": "team-event-free-dance-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Free Dance - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-final-round-ski-jumping-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/850/140/GCDG-PYSHORT18S14E004-_E17101101_master.m3u8",
+    "eventSlug": "team-event-final-round-ski-jumping-pyeongchang-2018-replays",
+    "eventTitle": "Team Event, Final Round - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ter-mors-skates-to-womens-1000m-glory-and-olympic-record-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/764/280/GCDG-PYSHORT18S16E004-_E17101101_master.m3u8",
+    "eventSlug": "ter-mors-skates-to-womens-1000m-glory-and-olympic-record-speed-skating",
+    "eventTitle": "Ter Mors skates to Women's 1000m glory and Olympic record - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-mens-free-skating-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/309/700/GCDG-PYSHORT18S07E042-_E17101101_master.m3u8",
+    "eventSlug": "team-event-mens-free-skating-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Men's Free Skating - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-womens-free-skating-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/310/676/GCDG-PYSHORT18S07E044-_E17101101_master.m3u8",
+    "eventSlug": "team-event-womens-free-skating-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Women's Free Skating - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/team-event-pairs-short-program-figure-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/973/840/GCDG-PYSHORT18S07E045-_E17101101_master.m3u8",
+    "eventSlug": "team-event-pairs-short-program-figure-skating-pyeongchang-2018-replays",
+    "eventTitle": "Team Event Pairs Short Program - Figure Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/tessa-virtue-scott-moir/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/673/888/GCDG-PYSHORT18S07E031-_E17101101_master.m3u8",
+    "eventSlug": "tessa-virtue-scott-moir",
+    "eventTitle": "Virtue and Moir (CAN) - Gold Medal - Free Ice Dance"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/the-last-run-is-all-wise-needs-to-defend-halfpipe-title-freestyle-skiing/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1022/1012/GCDG-PYSHORT18S08E011-_E17101101_master.m3u8",
+    "eventSlug": "the-last-run-is-all-wise-needs-to-defend-halfpipe-title-freestyle-skiing",
+    "eventTitle": "The Last Run is all Wise needs to defend Halfpipe title - Freestyle Skiing"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/ukrainian-luger-andriy-mandziy-makes-amazing-recovery/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/588/4/GCDG-PYSHORT18S10E022-_E17122701_master.m3u8",
+    "eventSlug": "ukrainian-luger-andriy-mandziy-makes-amazing-recovery",
+    "eventTitle": "Ukrainian luger Andriy Mandziy makes amazing recovery"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/w-team-pursuit-bronze-medal-final-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/854/44/GCDG-PYSHORT18S16E016-_E17101101_master.m3u8",
+    "eventSlug": "w-team-pursuit-bronze-medal-final-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "W Team Pursuit Bronze Medal Final - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-1000m-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1021/536/GCDG-PYSHORT18S12E010-_E17122701_master.m3u8",
+    "eventSlug": "womens-1000m-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 1000m, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-1500m-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/39/604/GCDG-PYSHORT18S12E017-_E17122701_master.m3u8",
+    "eventSlug": "womens-1500m-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 1500m, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-1000m-semi-final-2-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1022/12/GCDG-PYSHORT18S12E012-_E17122701_master.m3u8",
+    "eventSlug": "womens-1000m-semi-final-2-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 1000m, Semi-Final 2 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-1000m-semi-final-1-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1022/12/GCDG-PYSHORT18S12E011-_E17122701_master.m3u8",
+    "eventSlug": "womens-1000m-semi-final-1-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 1000m, Semi-Final 1 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-big-air-final-snowboard-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1022/1012/GCDG-PYSHORT18S15E002-_E17101101_master.m3u8",
+    "eventSlug": "womens-big-air-final-snowboard-pyeongchang-2018-replays",
+    "eventTitle": "Women's Big Air, Final - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-normal-hill-final-round-ski-jumping-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/583/124/GCDG-PYSHORT18S14E003-_E17101101_master.m3u8",
+    "eventSlug": "womens-normal-hill-final-round-ski-jumping-pyeongchang-2018-replays",
+    "eventTitle": "Women's Normal Hill, Final Round - Ski Jumping - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-500m-m-team-pursuit-qual-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/466/856/GCDG-PYREPL18S16E002-_E17101101_master.m3u8",
+    "eventSlug": "womens-500m-m-team-pursuit-qual-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 500m - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-ski-cross-big-final-freestyle-skiing-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/1021/536/GCDG-PYSHORT18S08E010-_E17101101_master.m3u8",
+    "eventSlug": "womens-ski-cross-big-final-freestyle-skiing-pyeongchang-2018-replays",
+    "eventTitle": "Women's Ski Cross Big Final - Freestyle Skiing - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-relay-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/839/904/GCDG-PYSHORT18S12E024-_E17122801_master.m3u8",
+    "eventSlug": "womens-relay-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's Relay, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-team-pursuit-final-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/853/568/GCDG-PYSHORT18S16E015-_E17101101_master.m3u8",
+    "eventSlug": "womens-team-pursuit-final-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's Team Pursuit Final - Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-500m-medal-round-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/581/172/GCDG-PYSHORT18S12E004-_E17101101_master.m3u8",
+    "eventSlug": "womens-500m-medal-round-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 500m, Medal Round - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-500m-semi-final-2-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/580/696/GCDG-PYSHORT18S12E006-_E17101101_master.m3u8",
+    "eventSlug": "womens-500m-semi-final-2-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 500m, Semi-Final 2 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-500m-semi-final-1-st-speed-skating-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/580/196/GCDG-PYSHORT18S12E005-_E17101101_master.m3u8",
+    "eventSlug": "womens-500m-semi-final-1-st-speed-skating-pyeongchang-2018-replays",
+    "eventTitle": "Women's 500m, Semi-Final 1 - ST Speed Skating - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/womens-snowboard-cross-big-final-snowboard-pyeongchang-2018-replays/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/884/400/GCDG-PYSHORT18S15E012-_E17101101_master.m3u8",
+    "eventSlug": "womens-snowboard-cross-big-final-snowboard-pyeongchang-2018-replays",
+    "eventTitle": "Women's Snowboard Cross, Big Final - Snowboard - PyeongChang 2018 Replays"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/wust-makes-history-winning-gold-in-the-womens-1500m-speed-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/575/816/GCDG-PYSHORT18S16E006-_E17101101_master.m3u8",
+    "eventSlug": "wust-makes-history-winning-gold-in-the-womens-1500m-speed-skating",
+    "eventTitle": "Wust makes history winning Gold in the Women's 1500m - Speed Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/yuzuru-hanyu-jpn-gold-medal-mens-free-skating/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/234/924/GCDG-PYSHORT18S07E001-_E17101101_master.m3u8",
+    "eventSlug": "yuzuru-hanyu-jpn-gold-medal-mens-free-skating",
+    "eventTitle": "Yuzuru Hanyu (JPN) - Gold Medal - Men's Free Skating"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/yarnold-saves-her-best-until-last-to-defend-womens-title-skeleton/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/44/484/GCDG-PYSHORT18S13E012-_E17122701_master.m3u8",
+    "eventSlug": "yarnold-saves-her-best-until-last-to-defend-womens-title-skeleton",
+    "eventTitle": "Yarnold saves her best until last to defend Women's title - Skeleton"
+  },
+  {
+    "pageUrl": "https://olympicchannel.com/en/playback/yuzuru-hanyu-and-a-shower-of-bears/",
+    "masterPlaylistUrl": "https://vod.olympicchannel.com/NBCR_Production_-_OCS/247/612/GCDG-PYSHORT18S07E051-_E17122701_master.m3u8",
+    "eventSlug": "yuzuru-hanyu-and-a-shower-of-bears",
+    "eventTitle": "Yuzuru Hanyu and a shower of bears"
+  }
+]

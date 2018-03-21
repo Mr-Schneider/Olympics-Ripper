@@ -1,0 +1,12 @@
+#!/bin/bash
+for number in {0..430}
+do
+	url=$(jq .[$number].masterPlaylistUrl oly.json)
+	url=${url//[\'\"]/}
+	name=$(jq .[$number].eventTitle oly.json)
+	name=${name//[\'\"]/}
+	name=${name// /.}
+	end=".%(ext)s"
+	begin="$name"
+	$(youtube-dl --download-archive downloaded.txt -o $begin$end $url)
+done 
